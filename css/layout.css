@@ -251,7 +251,7 @@ ul#nav li.current a { color: #F06000; }
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
+   font: 16px/24px 'Open-Sans', serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
@@ -663,7 +663,7 @@ call-to-action .button {
 }
 #testimonials blockquote:before { content: none; }
 #testimonials blockquote p {
-   font-family: 'librebaskerville-italic', serif;
+   font-family: 'Open-Sans', serif;
    padding: 0;
    font-size: 24px;
    line-height: 48px;
