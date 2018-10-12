@@ -176,7 +176,7 @@ blockquote:before {
 	left: 0;
 }
 blockquote p {
-   font-family: 'Open-Sans', serif;
+   font-family: 'opensans-regular', sans-serif;
    padding: 0;
    font-size: 18px;
    line-height: 36px;
