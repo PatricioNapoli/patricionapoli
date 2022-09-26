@@ -19,4 +19,4 @@ Rust, Go, C++, Solidity.
 
 # Contact 📧
 
-📧 pnapoli@geminis.io
+pnapoli@geminis.io
