@@ -17,7 +17,7 @@ Rust, Go, C++, Solidity.
 - Cyclone (Rust - NoSQL sharded HA database with replicated cache layer)
 - Nebula (C++/Rust - OpenGL & Vulkan modern game engine with ECS)
 
-# Blog
+# Blog 📖
 
 https://notquine.dev
 
