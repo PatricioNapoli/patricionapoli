@@ -23,4 +23,11 @@ https://notquine.dev
 
 # Contact 📧
 
-pnapoli@geminis.io
+pnapoli@geminis.io  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricionapoli&layout=compact&hide=css,scss,html,javascript,shell&langs_count=10&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+# ⭐
+
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=patricionapoli&repo=nebula&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
