@@ -117,10 +117,14 @@ body {
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
-	color: #b3bcc5;
+	color: #4e5256;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
+}
+
+body header {
+   color: #c1c5c9;
 }
 
 /*  2. Typography
