@@ -1,6 +1,6 @@
 # Main Tech 💻
 
-Rust, Go, C++, Solidity.
+Rust, Go, C++, Elixir, Solidity.
 
 # About Me 🧔🏻‍♂️
 
@@ -12,10 +12,9 @@ Rust, Go, C++, Solidity.
 
 # Current focus 🚀
 
-- Developing open source projects & tools in Rust.
 - Learning Blockchain & Web3 tooling (Solidity & Rust for Smart Contracts, Tendermint/Cosmos for Engineering).
 - Cyclone (Rust - NoSQL sharded HA database with replicated cache layer).
-- Nebula (C++/Rust - OpenGL & Vulkan modern game engine with ECS).
+- Nebula (C++ - OpenGL & Vulkan modern game engine with ECS).
 
 # Blog 📖
 
