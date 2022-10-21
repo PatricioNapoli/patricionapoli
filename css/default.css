@@ -2,9 +2,6 @@
 /* a. Webfonts and Icon fonts
  ------------------------------------------------------------------ */
 
-@import url("fonts.css");
-@import url("font-awesome/css/font-awesome.min.css");
-
 /* ------------------------------------------------------------------
 /* b. Reset
       Adapted from:
@@ -120,7 +117,7 @@ body {
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
-	color: #838C95;
+	color: #b3bcc5;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
@@ -136,7 +133,7 @@ h1, h2, h3, h4, h5, h6 {
    font-weight: normal;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
-h1 { font-size: 38px; line-height: 42px; margin-bottom: 12px; letter-spacing: -1px; }
+h1 { font-size: 32px; line-height: 42px; margin-bottom: 12px; letter-spacing: -1px; }
 h2 { font-size: 28px; line-height: 36px; margin-bottom: 6px; }
 h3 { font-size: 22px; line-height: 30px; margin-bottom: 12px; }
 h4 { font-size: 20px; line-height: 30px; margin-bottom: 6px; }
@@ -144,7 +141,7 @@ h5 { font-size: 18px; line-height: 30px; }
 h6 { font-size: 14px; line-height: 30px; }
 .subheader { }
 
-p { margin: 0 0 30px 0; }
+p { margin: 0 0 15px 0; }
 p img { margin: 0; }
 p.lead {
    font: 19px/36px 'opensans-light', sans-serif;
@@ -274,7 +271,7 @@ p a, p a:visited { line-height: inherit; }
 
 /*  4. List  --------------------------------------------------------- */
 
-ul, ol { margin-bottom: 24px; margin-top: 12px; }
+ul, ol { margin-bottom: 8px; margin-top: 8px; }
 ul { list-style: none outside; }
 ol { list-style: decimal; }
 ol, ul.square, ul.circle, ul.disc { margin-left: 30px; }

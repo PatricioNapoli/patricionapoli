@@ -32,16 +32,15 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;
    text-align: center;
 }
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 90px/1.1em 'opensans-bold', sans-serif;
+   font: 75px/1.1em 'opensans-bold', sans-serif;
    color: #fff;
    letter-spacing: -2px;
-   margin: 0 auto 18px auto;
+   margin: 0 auto 0px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
@@ -68,7 +67,7 @@ header .banner-text hr {
 
 /* header social links */
 header .social {
-   margin: 24px 0;
+   margin: 5px 0;
    padding: 0;
    font-size: 30px;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .8);
@@ -171,10 +170,13 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: rgba(40,44,52,1);
+   /* background: rgba(40,44,52,1);
    padding-top: 96px;
    padding-bottom: 66px;
-   overflow: hidden;
+   overflow: hidden; */
+   max-width: 450px;
+   text-align: center;
+   margin: auto;
 }
 
 #about a, #about a:visited  { color: #fff; }
@@ -187,7 +189,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #9f9f9f;
 }
 #about .profile-pic {
    position: relative;
@@ -396,7 +398,7 @@ ul#nav li.current a { color: #F06000; }
 
 #portfolio {
    background: #ebeeee;
-   padding-top: 90px;
+   padding-top: 40px;
    padding-bottom: 60px;
 }
 #portfolio h1 {
@@ -694,17 +696,15 @@ call-to-action .button {
 /* Necessary Styles */
 .flexslider {
    position: relative;
-   zoom: 1;
    margin: 0;
    padding: 0;
 }
-.flexslider .slides { zoom: 1; }
 .flexslider .slides > li { position: relative; }
 
 /* Hide the slides before the JS is loaded. Avoids image jumping */
 .flexslider .slides > li { display: none; -webkit-backface-visibility: hidden; }
 /* Suggested container for slide animation setups. Can replace this with your own */
-.flex-container { zoom: 1; position: relative; }
+.flex-container { position: relative; }
 
 /* Clearfix for .slides */
 .slides:before,
@@ -722,7 +722,6 @@ call-to-action .button {
 .no-js .slides > li:first-child { display: block; }
 
 /* Slider Styles */
-.slides { zoom: 1; }
 .slides > li {
    /*margin-right: 5px; */
    overflow: hidden;
@@ -738,7 +737,6 @@ call-to-action .button {
 .flex-control-nav li {
     margin: 0 6px;
     display: inline-block;
-    zoom: 1;
     *display: inline;
 }
 .flex-control-paging li a {
@@ -986,3 +984,40 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+.lang-icon {
+   height: 50px;
+   margin-right: 15px;
+   filter: hue-rotate(40deg);
+}
+
+.icon-go {
+   max-height: 100%;
+   width: 80px;
+}
+
+.lang-icons {
+   margin-top: 15px !important;
+   margin-bottom: 15px !important;
+}
+
+.profile-pic {
+   width: 60px;
+   height: 60px;
+   border-radius: 100%;
+}
+
+.inline-icon {
+   display: inline;
+   height: 35px;
+   width: 35px;
+   margin-right: 8px;
+}
+
+.disc {
+   width: 500px;
+}
+
+.disc-box {
+   display: flex;
+   justify-content: center;
+}
