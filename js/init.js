@@ -175,13 +175,14 @@
       return false;
    });
 
-
+  VANTA.DOTS({
+   el: "#bg",
+   gyroControls: true,
+   color: 0xff2054,
+   backgroundColor: 0x180d18,
+   spacing: 35.00,
+   size: 2.0,
+   showLines: false,
+  });
+  
 });
-
-
-
-
-
-
-
-
