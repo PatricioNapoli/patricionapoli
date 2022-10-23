@@ -991,7 +991,7 @@ footer .social-links li:first-child { margin-left: 0; }
 .lang-icon {
    height: 50px;
    margin-right: 15px;
-   filter: saturate(150%) hue-rotate(110deg);
+   filter: saturate(150%);
 }
 
 .icon-go {
