@@ -16,6 +16,10 @@ Rust, Go, C++, Elixir, Solidity.
 - Cyclone (Rust - NoSQL sharded HA database with replicated cache layer).
 - Nebula (C++ - OpenGL & Vulkan modern game engine with ECS).
 
+# Moonsyrup Protocol 🌕
+
+https://moonsyrup.com
+
 # Blog 📖
 
 https://notquine.dev
