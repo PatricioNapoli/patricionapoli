@@ -65,9 +65,9 @@
 /* equal to the browser height.
 ------------------------------------------------------ */
 
-   $('header').css({ 'height': Math.max($('header').height(), $(window).height()) });
+   $('header').css({ 'min-height': $(window).height() });
    $(window).on('resize', function() {
-        $('header').css({ 'height': Math.max($('header').height(), $(window).height()) });
+        $('header').css({ 'min-height': $(window).height() });
         $('body').css({ 'width': $(window).width() })
    });
 
