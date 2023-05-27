@@ -12,7 +12,7 @@ Rust, Go, C++, Elixir, Solidity.
 
 # Current focus 🚀
 
-- Learning Blockchain & Web3 tooling (Solidity & Rust for Smart Contracts, Tendermint/Cosmos for Engineering).
+- Learning Blockchain & Web3 tooling (Solidity & Rust for Smart Contracts, Polkadot Substrate)
 - Cyclone (Rust - NoSQL sharded HA database with replicated cache layer).
 - Nebula (C++ - OpenGL & Vulkan modern game engine with ECS).
 
