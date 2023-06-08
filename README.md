@@ -14,6 +14,7 @@ Rust, Go, C++, Elixir, Solidity.
 
 - Learning Blockchain & Web3 tooling (Solidity & Rust for Smart Contracts, Polkadot Substrate)
 - Cyclone (Rust - NoSQL sharded HA database with replicated cache layer).
+- Clan Platform (Rust Microservices, SurrealDB, Svelte App)
 - Nebula (C++ - OpenGL & Vulkan modern game engine with ECS).
 
 # Moonsyrup Protocol 🌕
@@ -29,7 +30,7 @@ https://notquine.dev
 hi@patricionapoli.dev
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricionapoli&layout=compact&hide=css,scss,html,javascript,shell&langs_count=10&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricionapoli&layout=compact&hide=python,css,scss,html,javascript,shell&langs_count=10&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # ⭐
 
