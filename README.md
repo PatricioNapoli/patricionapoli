@@ -2,7 +2,7 @@
 <img height="180" src="images/background-blur.jpg" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Patricio</h1>
+<h1 align="center">👋 Hi, I'm Patricio</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
