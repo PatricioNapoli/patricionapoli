@@ -1,37 +1,34 @@
-# Main Tech 💻
+<h1 align="center">Hi 👋, I'm Patricio</h1>
 
-Rust, Go, C++, Elixir, Solidity.
+<p align="center">
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+</p>
+<div align="center">
+  <a href="https://notquine.dev">📖 Blog</a> - <a href="mailto:hi@patricionapoli.dev">📧 Contact</a> - 
+  <img height="12" width="12" src="https://cdn.simpleicons.org/linkedin" /> <a href="https://linkedin.com/in/patricionapoli"> LinkedIn</a>
+</div>
 
-# About Me 🧔🏻‍♂️
+<h3> 🧔🏻‍♂️ About </h3>
 
-- Bachelor's Degree in Information Tech/Computer Science. Thesis on crypto value prediction with Deep Learning.
-- I'm in a constant quest for challenges and never afraid of learning new technologies. 
-- Mainly interested on distributed systems, blockchain, machine learning, and opengl. 
-- I enjoy taking on complex problems and offering innovative solutions, be it code or architecture. 
-- I'm a team player, fast-learner and versatile programmer.
+- Bachelor's Degree in Information Tech/Computer Science. Thesis on crypto value prediction with Deep Learning
+- I'm in a constant quest for challenges and never afraid of learning new technologies.
+- Mainly interested on distributed systems, blockchain, machine learning, and opengl 
+- I enjoy taking on complex problems and offering innovative solutions, be it code or architecture
+- I'm a team player, fast-learner and versatile programmer
 
-# Current focus 🚀
+<h3> 🚀 Projects </h3>
 
-- Learning Blockchain & Web3 tooling (Solidity & Rust for Smart Contracts, Polkadot Substrate)
-- Cyclone (Rust - NoSQL sharded HA database with replicated cache layer).
-- Clan Platform (Rust Microservices, SurrealDB, Svelte App)
-- Nebula (C++ - OpenGL & Vulkan modern game engine with ECS).
+- [Moonsyrup Protocol](https://moonsyrup.com) (Substrate-based Protocol)
+- [Clan Platform](https://www.clanacademy.com/) (Rust Microservices, ChatGPT3.5, SurrealDB, Svelte App)
+- [Nebula](https://github.com/PatricioNapoli/nebula) (C++ - OpenGL & Vulkan modern game engine with ECS)
 
-# Moonsyrup Protocol 🌕
+<hr/>
 
-https://moonsyrup.com
-
-# Blog 📖
-
-https://notquine.dev
-
-# Contact 📧
-
-hi@patricionapoli.dev
-
-
+<div align="center">
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricionapoli&layout=compact&hide=python,css,scss,html,javascript,shell&langs_count=10&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-# ⭐
-
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=patricionapoli&repo=nebula&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
