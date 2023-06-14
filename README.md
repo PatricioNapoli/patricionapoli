@@ -31,8 +31,4 @@
 
 <hr/>
 
-<div align="center">
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricionapoli&layout=compact&hide=python,css,scss,html,javascript,shell&langs_count=10&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
