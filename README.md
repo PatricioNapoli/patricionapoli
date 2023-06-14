@@ -1,3 +1,7 @@
+<div align="center">
+<img height="180" src="images/background-blur.jpg" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Patricio</h1>
 
 <p align="center">
