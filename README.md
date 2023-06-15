@@ -1,5 +1,5 @@
 <div align="center">
-<img height="180" src="images/background-blur.jpg" />
+<img height="140" src="images/background-blur.jpg" />
 </div>
 
 <h1 align="center">👋 Hi, I'm Patricio</h1>
@@ -17,7 +17,7 @@
 
 <h3> 🧔🏻‍♂️ About </h3>
 
-- Bachelor's Degree in Information Tech/Computer Science. Thesis on crypto value prediction with Deep Learning
+- Bachelor's Degree in Information Technology. Thesis on crypto value prediction with Deep Learning
 - I'm in a constant quest for challenges and never afraid of learning new technologies.
 - Mainly interested on distributed systems, blockchain, machine learning, and opengl 
 - I enjoy taking on complex problems and offering innovative solutions, be it code or architecture
