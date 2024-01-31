@@ -23,12 +23,6 @@
 - I enjoy taking on complex problems and offering innovative solutions, be it code or architecture
 - I'm a team player, fast-learner and versatile programmer
 
-<h3> 🚀 Projects </h3>
-
-- [Moonsyrup Protocol](https://moonsyrup.com) (Substrate-based Protocol)
-- [Clan Platform](https://www.clanacademy.com/) (Rust Microservices, ChatGPT3.5, SurrealDB, Svelte App)
-- [Nebula](https://github.com/PatricioNapoli/nebula) (C++ - OpenGL & Vulkan modern game engine with ECS)
-
 <hr/>
 
 <p align="center">
