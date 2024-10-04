@@ -18,7 +18,7 @@
 
 - Bachelor's Degree in Information Technology. Thesis on crypto value prediction with Deep Learning
 - I'm in a constant quest for challenges and never afraid of learning new technologies.
-- Mainly interested on distributed systems, machine learning, and computer graphics 
+- Mainly interested on distributed systems, peer to peer networks, and computer graphics 
 - I enjoy taking on complex problems and offering innovative solutions, be it code or architecture
 - I'm a team player, fast-learner and versatile programmer
 
