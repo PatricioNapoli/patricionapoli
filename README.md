@@ -11,7 +11,7 @@
 </p>
 <div align="center">
   <a href="https://notquine.dev">📖 Blog</a> - <a href="mailto:hi@patricionapoli.dev">📧 Contact</a> - 
-  <img height="12" width="12" src="https://cdn.simpleicons.org/linkedin" /> <a href="https://linkedin.com/in/patricionapoli"> LinkedIn</a>
+  <img height="12" width="12" src="https://cdn.simpleicons.org/linkedin" /> <a href="https://linkedin.com/in/zkpato"> LinkedIn</a>
 </div>
 
 <h3> 🧔🏻‍♂️ About </h3>
